@@ -1,0 +1,67 @@
+.wrapper{
+    background-color: gray;
+}
+
+.border{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center; color: lightgreen;
+}
+
+h3{
+    text-align: center; color: blue;
+}
+
+p{
+    text-align: center; color: red;
+}
+
+hr{
+    
+}
+
+.true1{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.true2{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey; 
+}
+
+.true3{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.ans1{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.ans2{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.ans3{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
